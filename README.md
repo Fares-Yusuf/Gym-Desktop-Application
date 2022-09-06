@@ -1,6 +1,9 @@
 # Gym-Desktop-Application
-A small project of a Gym Application to allow users to:
-1. Buy membership
-2. Book trainers
-3. Get diet plans
-4. Check booking schedule.
+### A personal project of a Gym Application to allow users to:
+* Create an Account
+* Login
+* Buy Membership
+* Book Trainers
+* Edit Schedule
+* Create Diet Plans
+
